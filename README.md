@@ -10,9 +10,7 @@ A brief description of what this project does and who it's for
 
 ## Problem Statement
 
-This dashboard helps the APAN store understand their customers better. It helps the APAN store know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
+This dashboard helps the APAN store understand their customers better. It helps the APAN store know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
 
 
 ### Steps followed 
